@@ -1,4 +1,4 @@
-# Tales from the Crypto
+# Crypto Sentiment Analysis
 
 ![Stock Sentiment](Images/sentimental.jpeg)
 
